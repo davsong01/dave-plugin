@@ -1,0 +1,2 @@
+<br />
+<b>Warning</b>:  call_user_func_array() expects parameter 1 to be a valid callback, class 'Activate' not found in <b>C:\Users\Dave\Dropbox\xamp\htdocs\wptest\wp-includes\class-wp-hook.php</b> on line <b>287</b><br />

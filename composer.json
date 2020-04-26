@@ -1,0 +1,16 @@
+{
+    "name": "dave/dave-plugin",
+    "type" : "project",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "David",
+            "email": "davsong16@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": { "inc\\": "./inc" }
+    }
+}
